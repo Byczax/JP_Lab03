@@ -1,0 +1,11 @@
+przechowywanie danych w plikach, można w bazie danych
+wiele klas z metodami main
+
+
+zastosować pakiety
+
+niezależne metody mają być statyczne,
+zależne nie mogą, tworzyć instatncje
+Wielkość liter
+
+tydzień na poprawę
